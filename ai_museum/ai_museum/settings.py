@@ -40,7 +40,15 @@ INSTALLED_APPS = [
     "artefacts",
     "exhibits",
     "users",
-    "quizzes"
+    "quizzes",
+    "quizz_questions",
+    "book_marks",
+    "attempted_quizzes",
+    "evidence",
+    "AI_system_description",
+    "lessons_learned",
+    "failure_description",
+    "contributing_factors"
 ]
 
 MIDDLEWARE = [
